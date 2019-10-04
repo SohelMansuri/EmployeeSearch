@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Employee Search</string>
+    <string name="search_for_employees_by_location">Search for Employees by Location</string>
+</resources>

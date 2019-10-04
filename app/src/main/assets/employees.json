@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "name": "Karen",
+      "locations": ["Chicago", "New York", "Austin"],
+      "title": "Sales Engineer"
+    },
+    {
+      "name": "Albert",
+      "locations": ["New York"],
+      "title": "Developer"
+    },
+    {
+      "name": "Dusty",
+      "locations": ["New York"],
+      "title": "Designer"
+    },
+    {
+      "name": "Bob",
+      "locations": ["Chicago"],
+      "title": "President"
+    },
+    {
+      "name": "Nancy",
+      "locations": ["New York"],
+      "title": "Senior Developer"
+    },
+    {
+      "name": "Umi",
+      "locations": ["Austin", "New York"],
+      "title": "Chief Marketing Officer"
+    },
+    {
+      "name": "Doug",
+      "locations": ["Chicago"],
+      "title": "Chief Marketing Officer"
+    }
+  ]
+}
